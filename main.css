@@ -36,6 +36,10 @@ body {
     text-align: center;
     padding: 0 20px 0 20px;
 }
+.qr-card .qr-text h1 {
+    font-size: 1.5em;
+    color: hsl(220, 15%, 25%);
+}
 .qr-card .qr-text p {
     color: hsl(220, 15%, 55%);
 }
